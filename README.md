@@ -36,5 +36,5 @@ Code TEST Phase:
 
 - Write Code needed for taking 7 input currencies and give prediction of the output
 
-  ## Pdf File
-  You can find documentation about the solution to the problem and the techniques used in the pdf file.
+## Pdf File
+You can find documentation about the solution to the problem and the techniques used in the pdf file.
